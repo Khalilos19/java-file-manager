@@ -11,6 +11,13 @@ This project is a **Favorite File Manager** tool that allows users to:
 The application provides a **graphical user interface (JavaFX)** and uses an **Oracle relational database** (hosted in Docker) to store file metadata.
 
 ---
+## 👥 Authors
+- **Mohamed Khalil Nafati**  
+- [@MoKhalilNafati](https://github.com/MoKhalilNafati)
+
+- **Ahmed Khatmi**  
+- [@AhMeD-KhaTmi](https://github.com/AhMeD-KhaTmi)
+---
 
 ## 🛠️ Technical Environment
 - **Language**: Java (JavaFX for GUI)  
